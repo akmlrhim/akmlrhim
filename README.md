@@ -40,7 +40,7 @@
 
 ## 📈 GitHub Stats  
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=akmlrhim&show_icons=true&theme=radical" alt="Akmal's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akmlrhim&theme=dark&hide_border=true" width="428">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmlrhim&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
@@ -56,6 +56,3 @@
   </a>
 </div>
 
----
-
-✨ Feel free to explore my repositories and connect with me!
