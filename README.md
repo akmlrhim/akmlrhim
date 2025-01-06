@@ -40,7 +40,6 @@
 
 ## 📈 GitHub Stats  
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akmlrhim&theme=dark&hide_border=true" width="428">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmlrhim&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
